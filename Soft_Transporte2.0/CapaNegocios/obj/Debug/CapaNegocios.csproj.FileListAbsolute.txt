@@ -1,0 +1,11 @@
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\bin\Debug\CapaNegocios.dll
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\bin\Debug\CapaNegocios.pdb
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\bin\Debug\CapaDatos.dll
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\bin\Debug\CapaEntidades.dll
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\bin\Debug\CapaDatos.pdb
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\bin\Debug\CapaEntidades.pdb
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\obj\Debug\CapaNegocios.dll
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaNegocios\obj\Debug\CapaNegocios.pdb

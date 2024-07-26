@@ -1,0 +1,9 @@
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\bin\Debug\CapaDatos.dll
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\bin\Debug\CapaEntidades.dll
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\bin\Debug\CapaEntidades.pdb
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\obj\Debug\CapaDatos.dll
+D:\PROGRAMACION\PROYECTOS\05_Soft_Transporte\Soft_Transporte 2.0\Soft_Transporte2.0\CapaDatos\obj\Debug\CapaDatos.pdb
